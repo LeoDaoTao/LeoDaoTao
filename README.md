@@ -1,3 +1,4 @@
 # Leonard Dauksza | Elixir Software Developer
 ![header](https://user-images.githubusercontent.com/843024/209872629-dd91c76a-210b-41d7-8a11-f5688b7a52d2.png)
 
+I am a web **Software Developer** with 15+ years of experience in **business process software**, from initial concept, prototype, design and code to deployment, utilizing a wide range of technology features. My work in **creative** and **technical** aspects of the web software lifecycle enables me to **bridge the gulf between design and coding teams**. My guiding principle is simplifying processes to create a streamlined user experience and more resilient solutions. My current focus is on utilizing **Elixir**, Phoenix, Abysnthe GraphQL, and Phoenix LiveView. I have used Ruby on Rails in the past, however, I have found the concurrency of Elixir and OTP far superior to that offered by Ruby and its ecosystem. 
