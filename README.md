@@ -13,3 +13,35 @@
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 I am a web **Software Developer** with 15+ years of experience in **business process software**, from initial concept, prototype, design and code to deployment, utilizing a wide range of technology features. My work in **creative** and **technical** aspects of the web software lifecycle enables me to **bridge the gulf between design and coding teams**. My guiding principle is simplifying processes to create a streamlined user experience and more resilient solutions. My current focus is on utilizing **Elixir**, Phoenix, Abysnthe GraphQL, and Phoenix LiveView. I have used Ruby on Rails in the past, however, I have found the concurrency of Elixir and OTP far superior to that offered by Ruby and its ecosystem. 
+
+### Areas of Expertise
+* web application design & development
+* concept & prototype development
+* software development lifecycle
+* coordinating design & technical work
+* project management
+* client interaction
+* technical sales
+* SaaS
+
+### Technical Skills
+* Elixir
+* Phoenix
+* Absinthe/GraphQL
+* Ecto
+* Ruby
+* Ruby on Rails
+* Relational DB Design/SQL
+* HTML
+* CSS
+* Tailwind
+* JavaScript
+* Elm
+* Twilio API
+* Ladder Logic
+* x86 Assembly
+* Forth
+* Linux Administration
+* Graphic Design
+* UX/UI Design
+* Adobe Illustrator & Photoshop
