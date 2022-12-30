@@ -1,5 +1,5 @@
 # Leonard Dauksza | Elixir Software Developer
-![header](https://user-images.githubusercontent.com/843024/209872629-dd91c76a-210b-41d7-8a11-f5688b7a52d2.png)
+<img width="100%" alt="header" src="https://user-images.githubusercontent.com/843024/210106756-c4ef155c-6740-495c-a8a5-cba0866e709d.png">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonard-dauksza/)
 ![image](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
